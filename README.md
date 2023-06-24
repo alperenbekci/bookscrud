@@ -1,6 +1,6 @@
 # bookscrud
 
-Change the necessary values for the db variable in index.js in the backend file. Create the database on localhost by running the code in book.sql in the project with mysql
+Change the necessary values for the db variable in index.js in the backend file. Create the database on localhost by running the query in book.sql in the project with mysql
 
 Use `npm install` to download dependencies in client and backend folder
 
